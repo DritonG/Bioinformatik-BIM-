@@ -11,3 +11,7 @@ Methoden:
   - Alignment von Aminosaeuren
   - HMM (Hidden Markov Model) + Viterbi Algorythmus
   - Knapsack-Problem
+
+Sprachen:
+  - Java/Scala
+  - Matlab
