@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/scala-library-2.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/scala-compiler-2.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/dynpro-1.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/scala-swing-2.8.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
