@@ -8,6 +8,6 @@ Lernziele:
   - Sequenziermethoden verstehen
 
 Methoden:
-  - Alignment von Aminosaeren
+  - Alignment von Aminosaeuren
   - HMM (Hidden Markov Model) + Viterbi Algorythmus
   - Knapsack-Problem
